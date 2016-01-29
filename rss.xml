@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Christian Zirnig]]></title>
+        <description><![CDATA[Christian Zirnig]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 04:57:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Christian Zirnig]]></title>
+            <description><![CDATA[<h1>Christian Zirnig</h1>]]></description>
+            <link>undefinedchristian-zirnig/index.html</link>
+            <guid isPermaLink="false">a1e61203-f385-414b-9faa-c728cc801d62</guid>
+            <pubDate>Fri, 29 Jan 2016 04:57:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
